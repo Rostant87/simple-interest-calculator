@@ -1,29 +1,29 @@
 # Contributing Guidelines
 
-## Bienvenue !
-Toutes les contributions, rapports de bogues, corrections de bogues, 
-améliorations de documentation, améliorations et idées sont les bienvenues.
+## Welcome!
+All contributions, bug reports, bug fixes, documentation improvements, 
+enhancements, and ideas are welcome.
 
-## Comment Contribuer
+## How to Contribute
 
-### 1. Fork du dépôt
-- Forkez ce dépôt dans votre propre compte GitHub
+### 1. Fork the repository
+- Fork this repository into your own GitHub account
 
-### 2. Créez une branche
-- Créez une branche pour votre modification
-- Exemple : `git checkout -b ma-modification`
+### 2. Create a branch
+- Create a branch for your changes
+- Example: `git checkout -b my-fix`
 
-### 3. Faites vos modifications
-- Effectuez vos changements dans votre branche
+### 3. Make your changes
+- Make your changes in your branch
 
-### 4. Committez vos modifications
-- `git commit -m "Description de ma modification"`
+### 4. Commit your changes
+- `git commit -m "Description of my changes"`
 
-### 5. Poussez vers votre fork
-- `git push origin ma-modification`
+### 5. Push to your fork
+- `git push origin my-fix`
 
-### 6. Ouvrez une Pull Request
-- Soumettez une Pull Request vers ce dépôt
+### 6. Open a Pull Request
+- Submit a Pull Request to this repository
 
-## Code de Conduite
-Veuillez lire notre CODE_OF_CONDUCT.md avant de contribuer.
+## Code of Conduct
+Please read our CODE_OF_CONDUCT.md before contributing.
